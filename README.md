@@ -12,4 +12,3 @@ I'm Luna, a beginner hobbyist security researcher interested in the VR and socia
 
 ### Contact
 - Email: `lunanibble@gmail.com`
-- Discord: `lunanibble`
